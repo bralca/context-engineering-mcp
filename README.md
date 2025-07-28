@@ -1,10 +1,6 @@
 # 🚀 Context Engineering - MCP Server for Cursor, Claude Code & VS Code
 
 <p align="center">
-  <img src="https://contextengineering.ai/assets/images/context-engineering-ai.png" alt="Context Engineering Logo" width="800"/>
-</p>
-
-<p align="center">
   <strong>From Idea to Production without Context Loss</strong><br/>
   Give AI agents perfect understanding of your tech stack, architecture and established patterns.<br/>
   Build complex features <strong>10X more productive</strong>.
