@@ -1,7 +1,7 @@
 # 🚀 Context Engineering - MCP Server for Cursor, Claude Code & VS Code
 
 <p align="center">
-  <img src="https://contextengineering.ai/assets/images/context-engineering-ai.png" alt="Context Engineering Logo" width="200"/>
+  <img src="https://contextengineering.ai/assets/images/context-engineering-ai.png" alt="Context Engineering Logo" width="600"/>
 </p>
 
 <p align="center">
